@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact Link
 
-Project Link: [[https://github.com/yourusername/POC-AI-Agents-functionality-task](https://colab.research.google.com/drive/1O191UhyIkOkRjN93wUaQ9ODh_KsaCEb6#scrollTo=1fxF4WAK3d4T)]
+Project Link: [[link](https://colab.research.google.com/drive/1O191UhyIkOkRjN93wUaQ9ODh_KsaCEb6#scrollTo=1fxF4WAK3d4T)]
 
 ## Acknowledgments
 * List any resources or people you want to acknowledge
