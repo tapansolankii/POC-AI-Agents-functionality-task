@@ -74,9 +74,9 @@ OTHER_CONFIG=value
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/POC-AI-Agents-functionality-task](https://github.com/yourusername/POC-AI-Agents-functionality-task)
+## Contact Link
+
+Project Link: [[https://github.com/yourusername/POC-AI-Agents-functionality-task](https://colab.research.google.com/drive/1O191UhyIkOkRjN93wUaQ9ODh_KsaCEb6#scrollTo=1fxF4WAK3d4T)]
 
 ## Acknowledgments
 * List any resources or people you want to acknowledge
